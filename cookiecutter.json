@@ -1,0 +1,28 @@
+{
+  "repo_name": "my_neuroscience_project",
+  "project_name": "Full Project Name Here",
+  "short_description": "Project Description (1-2 Sentences)",
+  "stimulation_modality": [
+    "None",
+    "TMS",
+    "taVNS",
+    "NMES",
+    "DBS",
+    "tACS",
+    "tDCS",
+    "tFUS",
+    "Microstimulation",
+    "Other (specify)"
+  ],
+  "custom_stimulation_modality": "",
+  "author_full_name": "A. Student",
+  "project_type": ["Internship", "Bachelor Thesis", "Master Thesis", "Research", "Other"],
+  "year": "None",
+  "university": "University",
+  "institute": "Institute",
+  "python_version": ["3.10", "3.12", "3.8", "3.9", "3.11"],
+  "environment_type": [
+    "standard",
+    "empty"
+  ]
+}
