@@ -17,6 +17,8 @@ A **Cookiecutter template** for neuroscience projects, specifically designed for
 
 - [Cookiecutter](https://cookiecutter.readthedocs.io/en/latest/) (Install with `pip install cookiecutter`).
 - Python 3.9+ (recommended).
+- anaconda, miniconda, or mamba probably.
+
 
 ---
 
