@@ -5,6 +5,9 @@ data/*
 # Except files in data/example/
 !data/example/
 !data/example/
+!data/processed/.gitkeep
+!data/raw/.gitkeep
+
 
 
 # Byte-compiled / optimized / DLL files
